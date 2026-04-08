@@ -70,7 +70,13 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+<<<<<<< HEAD
 
+=======
+*SOL.ipynb
+*SOL.py
+*.DS_Store
+>>>>>>> upstream/main
 # PyBuilder
 .pybuilder/
 target/
